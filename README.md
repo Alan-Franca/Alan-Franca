@@ -154,20 +154,24 @@ Meu nome é Alan França, tenho 17 anos e atualmente, estou cursando o 5 semestr
 ### 📊 Estatísticas
 <br/>
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Alan-Franca&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+    <p>
+        <img 
+            align="left" 
+            alt="GitHub Stats" 
+            height="200" 
+            style="padding-right: 10px;" 
+            src="https://github-readme-stats.vercel.app/api?username=Alan-Franca&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+          />
+    </p>  
 <br/>
 <br/>
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200"
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Franca&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+    <p>
+        <img 
+            align="left" 
+            alt="GitHub Stats" 
+            height="200"
+            style="padding-right: 10px;" 
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Franca&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+          />
+    <p/>
 </p>
