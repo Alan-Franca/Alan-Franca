@@ -24,8 +24,8 @@ Meu nome é Alan França, tenho 17 anos e atualmente, estou cursando o 5 semestr
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
-<img 
+<p>
+  <img 
     align="left" 
     alt="HTML"
     title="HTML" 
@@ -144,8 +144,8 @@ Meu nome é Alan França, tenho 17 anos e atualmente, estou cursando o 5 semestr
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg"
-/>
-                  
+/>  
+</p>               
 
 <br/>
 <br/>
@@ -167,5 +167,4 @@ Meu nome é Alan França, tenho 17 anos e atualmente, estou cursando o 5 semestr
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Franca&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
