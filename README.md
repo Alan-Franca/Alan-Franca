@@ -163,8 +163,6 @@ Meu nome é Alan França, tenho 17 anos e atualmente, estou cursando o 5 semestr
             src="https://github-readme-stats.vercel.app/api?username=Alan-Franca&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
           />
     </p>  
-<br/>
-<br/>
     <p>
         <img 
             align="left" 
