@@ -12,7 +12,7 @@ Meu nome é Alan França, tenho 17 anos e atualmente, estou cursando o 5 semestr
             src="https://custom-icon-badges.demolab.com/github/stars/Alan-Franca?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/Alan-Franca?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
