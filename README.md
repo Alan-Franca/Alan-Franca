@@ -2,8 +2,10 @@
 
 **`Desenvolvedor FullStack e Analista de BI`**
 
-Olá! Meu nome é Alan França, tenho 17 anos e atualmente, estou cursando o 5 semestre no Ensino Médio integrado ao técnico em Desenvolvimento de Sistemas na ETEC e estou no segundo ano do curso de língua inglesa no Centro de Línguas José Marques, busco uma oportunidade para crescer mercado como Desenvolvedor." Tenho habilidades avançadas nas tecnologias essenciais do front-end, como HTML, CSS e JavaScript e Wordpress. Também possuo experiência intermediária com PHP , C#, Java e .NET. Já tive contato inicial com frameworks e librarys como React Native, React JS e Node JS. Além de conhecimentos na área de Dados, tanto em análise quando na estruturação de um banco de dados, tenho experiencia
-com MySQL e SQL Postgres, juntamente com bancos na nuvem como Mongo Db, Postman, Google Cloud, e Neon DB, juntamente com Power BI e Excel.
+Olá! Meu nome é Alan França, tenho 17 anos e atualmente, estou cursando o 6 semestre no Ensino Médio integrado ao técnico em Desenvolvimento de Sistemas na ETEC e estou no segundo ano do curso de língua inglesa no Centro de Línguas José Marques, busco uma oportunidade para crescer mercado como Desenvolvedor ou Analista."
+Tenho habilidades avançadas nas tecnologias essenciais do front-end, como HTML, CSS e JavaScript e Wordpress. Também possuo experiência intermediária com PHP , C#, Java e .NET. Já tive contato inicial com frameworks como React Native, React JS e Node JS.
+Além de conhecimentos na área de Dados, tanto em análise quando na estruturação de um banco de dados, tenho experiencia com MySQL e SQL PostgreSQL, juntamente com bancos na nuvem como Mongo DB, Postman, Google Cloud, e Neon DB, juntamente com Power BI e Excel.
+Minha experiência como Jovem Aprendiz me deu uma base sólida em suporte técnico e manipulação de dados.
 
 <p align="left"> 
     <a href="https://github.com/Alan-Franca?tab=repositories&sort=stargazers">
