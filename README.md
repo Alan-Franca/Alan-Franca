@@ -10,7 +10,7 @@ com MySQL e SQL Postgres, juntamente com bancos na nuvem como Mongo Db, Postman,
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Alan-Franca?tab=starscolor=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Alan-Franca?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/Alan-Franca?tab=followers">
