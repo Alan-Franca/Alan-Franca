@@ -1,180 +1,62 @@
-# 👨🏻‍💻 Alan França
+<div align="center">
 
-**`Desenvolvedor FullStack e Analista de BI`**
+Olá, eu sou o Alan França! 👋
+<a href="https://git.io/typing-svg">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DInter%26size%3D28%26pause%3D1000%26color%3D1976D2%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DDesenvolvedor%2BFront-End%3BAnalista%2Bde%2BDados%3BEntusiasta%2Bde%2BTecnologia" alt="Animação de digitação com meus títulos" />
+</a>
 
-Olá! Meu nome é Alan França, tenho 18 anos, atualmente estou cursando o 6 semestre no Ensino Médio integrado ao técnico em Desenvolvimento de Sistemas na ETEC e estou no segundo ano do curso de língua inglesa no Centro de Línguas José Marques, e busco uma oportunidade para crescer no mercado como Desenvolvedor ou Analista.
-Como Dev, tenho habilidades avançadas nas tecnologias essenciais do front-end, como HTML, CSS e JavaScript e Wordpress. Também possuo experiência intermediária com PHP , C#, Java, XML e .NET. Já tive contato inicial com frameworks e tecnologias como React Native, React JS, Next JS e Node JS.
-Além de conhecimentos na área de Dados, tanto em análise quando na estruturação de um banco de dados, tenho experiencia com MySQL, SQL e PostgreSQL, juntamente com bancos na nuvem como  Docker, Mongo DB, Google Cloud, e Neon DB, minha principal experiência com APIs é com o Postman.
-Como Analista, tenho familiaridade com Power BI, Excel, Google Cloud Analystc e sistemas como Zoho e Jira.
+</div>
 
-<p align="left"> 
-    <a href="https://github.com/Alan-Franca?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Alan-Franca?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Alan-Franca?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Alan-Franca?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+👨‍💻 Sobre Mim
+<p>
+Tenho 18 anos e sou um apaixonado por tecnologia. Atualmente, estou no 6° semestre do Ensino Médio integrado ao técnico em <strong>Desenvolvimento de Sistemas na ETEC</strong> e no segundo ano do curso de <strong>Língua Inglesa</strong> no Centro de Línguas José Marques.
+</p>
+<p>
+Busco ativamente uma oportunidade para iniciar minha carreira e crescer no mercado como <strong>Desenvolvedor</strong> ou <strong>Analista</strong>. Minha experiência como Jovem Aprendiz me proporcionou uma base sólida em suporte técnico e manipulação de dados, habilidades que estou ansioso para aplicar e expandir em um novo desafio.
 </p>
 
----
+🛠️ Tecnologias e Habilidades
+<p align="center">
+<em>Tenho mais familiaridade com as tecnologias com fundo mais escuro!</em>
+<br><br>
 
-### 🤖 Linguagens e Tecnologias
-<br/>
-<p>
-  <img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind CSS" 
-    title="Tailwind CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img
-    align="left"
-    alt="C#"
-    title="C#"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-/>
-<img
-    align="left"
-    alt="C++"
-    title="C++"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
-/>             
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img
-    align="left" 
-    alt="NodeJS" 
-    title="NodeJS"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
-/>
-<img
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-/>         
-<img
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-/>
-<img
-    align="left" 
-    alt="Prisma" 
-    title="Prisma"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg"
-/>                   
-<img
-    align="left" 
-    alt="Google Cloud" 
-    title="Google Cloud"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"
-/>
-<img
-    align="left" 
-    alt="Wordpress" 
-    title="Wordpress"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg"
-/>  
-</p>               
+<!-- Habilidades Principais -->
 
-<br/>
-<br/>
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,wordpress,mysql,postgres" />
+</a>
 
-### 📊 Estatísticas
-<br/>
-<p>
-    <p>
-        <img 
-            align="left" 
-            alt="GitHub Stats" 
-            height="200" 
-            style="padding-right: 10px;" 
-            style="padding-bottom: 10px;"
-            src="https://github-readme-stats.vercel.app/api?username=Alan-Franca&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-          />
-    </p>  
-    <p>
-        <img 
-            align="left" 
-            alt="GitHub Stats" 
-            height="200"
-            style="padding-right: 10px;"
-            style="padding-top: 10px"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Franca&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-          />
-    <p/>
+<!-- Habilidades Intermediárias -->
+
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dphp,cs,java,dotnet,react,nodejs" />
+</a>
+
+<!-- Ferramentas e Cloud -->
+
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmongodb,gcp,postman,powerbi,excel,figma,vscode" />
+</a>
+</p>
+
+Bancos de Dados Adicionais: Também tenho experiência com Neon DB.
+
+📊 Minhas Estatísticas no GitHub
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO_GITHUB]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[SEU_USUARIO_GITHUB]&layout=compact&langs_count=7&theme=dracula&hide_border=true&border_radius=10"/>
+</p>
+
+📫 Conecte-se Comigo
+<p align="center">
+<a href="[https://www.linkedin.com/in/alan-frança-65805a300]" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-LinkedIn-%25230077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" target="_blank">
+</a>
+<a href="mailto:[alanvitorsouza07@gmail.com]">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Gmail-%2523333%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" target="_blank">
+</a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=[SEU_USUARIO_GITHUB]&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat" alt="Contador de visualizações do perfil" />
 </p>
