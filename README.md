@@ -71,14 +71,11 @@ API & Design: Postman, Figma.
 </a>
 </p>
 
-<div align="center">
-<img src="https://github.com/Alan-Franca/Alan-Franca/raw/output/github-contribution-grid-snake.svg" alt="Animação da cobrinha com as contribuições do GitHub">
-</div>
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Alan-Franca.visitor-badge&left_color=blue&right_color=red" />
+</p>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" width="100%">
 </div>
 
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Alan-Franca.visitor-badge&left_color=blue&right_color=red" />
-</p>
