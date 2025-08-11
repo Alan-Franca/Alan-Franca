@@ -47,7 +47,7 @@ API & Design: Postman, Figma.
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=gcp,mongodb,powerbi,excel,postman,figma" />
+<img src="https://skillicons.dev/icons?i=gcp,mongodb,postman,figma" />
 </a>
 </p>
 
