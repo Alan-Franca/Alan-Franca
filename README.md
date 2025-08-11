@@ -63,7 +63,7 @@ API & Design: Postman, Figma.
 
 📫 Como me encontrar
 <p align="center">
-<a href="https://www.linkedin.com/in/alan-frança-65805a300" target="_blank">
+<a href="www.linkedin.com/in/alan-frança-b0100837a" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
 <a href="mailto:alanvitorsouza07@gmail.com">
